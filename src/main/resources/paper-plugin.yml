@@ -1,0 +1,4 @@
+name: HCPlugins
+version: '${version}'
+main: dev.hcplugins.HCPlugins
+api-version: '1.20'
